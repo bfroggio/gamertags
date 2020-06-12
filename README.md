@@ -1,0 +1,6 @@
+- [ ] Steam
+- [ ] PlayStation
+- [ ] Nintendo
+- [ ] Oracle
+- [ ] Epic
+- [ ] Microsoft
